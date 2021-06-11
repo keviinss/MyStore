@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814410583773",
+    "firebase_url": "https://my-store-bbc87.firebaseio.com",
+    "project_id": "my-store-bbc87",
+    "storage_bucket": "my-store-bbc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814410583773:android:9ea82ef4604738c0a6d534",
+        "android_client_info": {
+          "package_name": "com.example.mystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814410583773-mg0noj2eleef14e7rkoogu9bfbs8cc26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mystore",
+            "certificate_hash": "03e276ec25564f59e46f99e9526e90f6f98e45fd"
+          }
+        },
+        {
+          "client_id": "814410583773-jd29cegu4s9l9dhvkeac8rclqnog81vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8gVYAAi9o2Y9HicMEm1n2gOPtCgtjGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814410583773-jd29cegu4s9l9dhvkeac8rclqnog81vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

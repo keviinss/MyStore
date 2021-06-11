@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/action_shop"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="Shop" />
+    <item
+        android:id="@+id/action_setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Setting" />
+
+</menu>
